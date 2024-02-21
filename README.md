@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: dilaraaakbayir@gmail.com
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&https://medium.com/@dilaraakbayir=https://medium.com/@dilaraakbayir)](https://medium.com/@dilaraakbayir) 
+<!-- [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&https://medium.com/@dilaraakbayir=https://medium.com/@dilaraakbayir)](https://medium.com/@dilaraakbayir) -->
 
 
 ![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilaraakbayir&show_icons=true&theme=transparent)
