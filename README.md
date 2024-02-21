@@ -1,6 +1,4 @@
 
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m @dilaraakbayir
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: dilaraaakbayir@gmail.com
