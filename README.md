@@ -29,6 +29,6 @@
 
    <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=dilaraakbayir&show_icons=true&theme=outrun&hide_border=true") /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilaraakbayir&theme=outrun&hide_border=true" alt="dilaraakbayir" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dilaraakbayir&theme=outrun&hide_border=true" alt="dilaraakbayir" /></p>
 
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
