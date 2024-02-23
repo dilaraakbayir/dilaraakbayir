@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dilaraakbayir&label=Profile%20views&color=0e75b6&style=flat" alt="dilaraakbayir" /> </p>
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dilaraakbayir&label=Profile%20views&color=0e75b6&style=flat" alt="dilaraakbayir" /> </p>
 
 <h3 align="center">A passionate Full Stack Java Developer</h3>
 
